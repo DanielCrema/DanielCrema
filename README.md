@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center" style="padding: 0px 100px 20px">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="35" height="35"/>
     </a>
@@ -99,4 +99,3 @@
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielCrema&amp;layout=compact&amp;langs_count=16&amp;theme=tokyonight" alt="danielCrema" />
 </p>
-# DanielCrema
