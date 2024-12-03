@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center" style="padding: 0px 100px 20px 100px">
+<p align="center">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="35" height="35"/>
     </a>
