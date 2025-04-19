@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=DanielCrema&label=Profile%20views&color=0e75b6&style=flat" alt="danielCrema" />
 </p>
 
-- 🌱 I’m currently learning **FrontEnd**
+- 🌱 I’m currently learning: **Data Science**
 
 - 📫 How to reach me **danielborgescrema@gmail.com**
 
