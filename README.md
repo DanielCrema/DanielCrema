@@ -129,17 +129,17 @@
     </a>
 </p>
 
-<hr/>
 <h3>My Credentials:</h3>
 
-[🔗 **Oracle ONE Certification**](https://github.com/DanielCrema/oracle_one-data-science-course/tree/main/certificates)  
+🔗 [**Oracle ONE Certification**](https://github.com/DanielCrema/oracle_one-data-science-course/tree/main/certificates)  
 
-[🔗 **Applied Data Analytics App (Streamlit)**](https://telecom-x.streamlit.app/)  
+🔗 [**Applied Data Analytics App (Streamlit)**](https://telecom-x.streamlit.app/)  
 
-[🔗 **Applied Data Science Project: Churn Prediction**](https://github.com/DanielCrema/oracle-one-data-science-challenge3-telecom-x-2/tree/main)  
+🔗 [**Applied Data Science Project: Churn Prediction**](https://github.com/DanielCrema/oracle-one-data-science-challenge3-telecom-x-2/tree/main)  
 
-[🔗 **Code Origins - My Beginner Memorial**](https://github.com/DanielCrema/code-origins)  
+🔗 [**Code Origins - My Beginner Memorial**](https://github.com/DanielCrema/code-origins)  
 
+<br/>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=danielCrema&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" alt="danielCrema" />
@@ -150,7 +150,7 @@
 </p>
 
 <br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/oracle/oracle-original.svg" alt="logo-oracle" style="width: 70px; font-size: 10px"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/oracle/oracle-original.svg" alt="logo-oracle" style="width: 70px; margin-bottom: -15px"/>  
 
-<img src="https://moebius78.github.io/moebius78-sprint03-aluraONE.github.io/assets/Oracle_Alura.png" alt="logo-oracle-alura-latam" style="width: 115px; background: #FCFCFC; color: #333; font-size: 10px; padding: 2px 3px"/>
+<img src="https://moebius78.github.io/moebius78-sprint03-aluraONE.github.io/assets/Oracle_Alura.png" alt="logo-oracle-alura-latam" style="width: 115px; background: #FCFCFC; color: #333; padding: 2px 3px"/>
 </p>
