@@ -22,6 +22,7 @@
     </a>
 </p>
 
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Languages:</h4>
 <p align="left">
@@ -129,6 +130,7 @@
     </a>
 </p>
 
+<br/>
 <h3>My Credentials:</h3>
 
 🔗 [**Oracle ONE Certification**](https://github.com/DanielCrema/oracle_one-data-science-course/tree/main/certificates)  
