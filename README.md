@@ -146,25 +146,25 @@
 
 <div style="display:flex; justify-content: center; gap: 10px; flex-wrap:wrap; align-items: center;">
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F76EC5C652C9AB1A59A30A0817FD54E082986A898C84DC7158B45BC33ECD61A0">
-    <img src="./assets/data-science-professional-badge.png" style="width:125px; max-width:100%; height:auto; padding: 0px 20px"/>
+    <img src="./assets/data-science-professional-badge.png" style="width:125px; max-width:100%; height:auto; margin: 0px 20px"/>
   </a>
 
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E8B22361ECAD15ABF5A929E28730DFEFF10CDD6D69764345A1937286EEA3250E">
-    <img src="./assets/generative-ai-professional-badge.png" style="width:125px; max-width:100%; height:auto; padding: 0px 20px" />
+    <img src="./assets/generative-ai-professional-badge.png" style="width:125px; max-width:100%; height:auto; margin: 0px 20px" />
   </a>
 </div>
   
 <div style="display:flex; justify-content: center; gap:20px; flex-wrap:wrap; align-items: center; margin-top: 12px">  
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3186D02949684AC598A19933D648D450B598683AF31F3875923C07F2C746FECF">
-    <img src="./assets/OCI-foundations-associate-badge.png" style="width:125px; max-width:100%; height:auto; padding: 0px 20px" />
+    <img src="./assets/OCI-foundations-associate-badge.png" style="width:125px; max-width:100%; height:auto; margin: 0px 20px" />
   </a>
 
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=653B0F6D2221821A3A79D72A7E0C9403E3FC8A2C1E5ED21E71CDF0AF01ED1036">
-    <img src="./assets/AI-foundations-associate-badge.png" style="width:125px; max-width:100%; height:auto; padding: 0px 20px" />
+    <img src="./assets/AI-foundations-associate-badge.png" style="width:125px; max-width:100%; height:auto; margin: 0px 20px" />
   </a>
   
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3396BADFFF1F55CCC7CCC64048698F36E6D0A863D650FC21321F7DA932256D36">
-    <img src="./assets/fusion-ai-agent-studio-foundations-associate-badge.png" style="width:125px; max-width:100%; height:auto; padding: 0px 20px" />
+    <img src="./assets/fusion-ai-agent-studio-foundations-associate-badge.png" style="width:125px; max-width:100%; height:auto; margin: 0px 20px" />
   </a>
 </div>
 
