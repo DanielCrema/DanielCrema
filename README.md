@@ -145,10 +145,13 @@
 <div style="display: flex; flex-direction: column; max-width: 800px">
 
 <div style="display:flex; justify-content: center; gap: 10px; flex-wrap:wrap; align-items: center;">
+<div>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F76EC5C652C9AB1A59A30A0817FD54E082986A898C84DC7158B45BC33ECD61A0" style="display:inline-block; text-align: center; max-width: 210px; width: 100%;">
     <img src="./assets/data-science-professional-badge.png" style="width:125px; max-width:100%; height:auto"/>
-    <strong style="font-size:12px; display:block; margin-top:6px; text-align: center">🔗 Data Science Professional</strong>
   </a>
+    <strong style="font-size:12px; display:block; margin-top:6px; text-align: center">🔗 Data Science Professional</strong>
+</div>
+
 
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E8B22361ECAD15ABF5A929E28730DFEFF10CDD6D69764345A1937286EEA3250E" style="display:inline-block; text-align: center; max-width: 210px; width: 100%;">
     <img src="./assets/generative-ai-professional-badge.png" style="width:125px; max-width:100%; height:auto" />
