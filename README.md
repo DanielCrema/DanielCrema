@@ -144,7 +144,7 @@
 
 <div align="center">
 
-<div style="display:flex; justify-content: center; gap: 10px; flex-wrap:wrap; align-items: center;">
+<div>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F76EC5C652C9AB1A59A30A0817FD54E082986A898C84DC7158B45BC33ECD61A0">
     <img src="./assets/data-science-professional-badge.png" style="width:225px; max-width:100%; height:auto; margin: 0px 20px"/>
   </a>
@@ -153,8 +153,10 @@
     <img src="./assets/generative-ai-professional-badge.png" style="width:225px; max-width:100%; height:auto; margin: 0px 20px" />
   </a>
 </div>
+
+<br/>
   
-<div style="display:flex; justify-content: center; gap:20px; flex-wrap:wrap; align-items: center; margin-top: 12px">  
+<div>  
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3186D02949684AC598A19933D648D450B598683AF31F3875923C07F2C746FECF">
     <img src="./assets/OCI-foundations-associate-badge.png" style="width:200px; max-width:100%; height:auto; margin: 0px 20px" />
   </a>
