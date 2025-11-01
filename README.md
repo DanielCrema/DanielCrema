@@ -132,16 +132,50 @@
 <br/>
 <h3>My Credentials:</h3>
 
-🔗 [**Oracle ONE Certification**](https://github.com/DanielCrema/oracle_one-data-science-course/tree/main/certificates)  
+🔗 [**Oracle Official Certificates** 🎓](https://github.com/DanielCrema/oracle-certifications/)  
 
-🔗 [**Applied Data Analytics App (Streamlit)**](https://telecom-x.streamlit.app/)  
+🔗 [**Oracle + Alura ONE Certification** 🎓](https://github.com/DanielCrema/oracle_one-data-science-course/tree/main/certificates)  
 
-🔗 [**Applied Data Science Project: Churn Prediction**](https://github.com/DanielCrema/oracle-one-data-science-challenge3-telecom-x-2/tree/main)  
+🔗 [**My Portfolio - Case Studies & Demos**](https://danielcrema.carrd.co/)  
 
 🔗 [**Code Origins - My Beginner Memorial**](https://github.com/DanielCrema/code-origins)  
 
 <br/>
 
+<div style="display: flex; flex-direction: column; width: fit-content;">
+
+<div style="display:flex; justify-content: center; gap: 10px; flex-wrap:wrap; align-items: center;">
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F76EC5C652C9AB1A59A30A0817FD54E082986A898C84DC7158B45BC33ECD61A0" style="display:flex; flex-direction: column; justify-content: center; align-items: center; max-width: 210px; width: 100%">
+    <img src="./assets/data-science-professional-badge.png" style="width:125px; max-width:100%; height:auto; display:block;"/>
+    <strong style="font-size:12px; display:block; margin-top:6px; text-align: center">🔗 Data Science Professional</strong>
+  </a>
+
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E8B22361ECAD15ABF5A929E28730DFEFF10CDD6D69764345A1937286EEA3250E" style="display:flex; flex-direction: column; justify-content: center; align-items: center; max-width: 210px; width: 100%">
+    <img src="./assets/generative-ai-professional-badge.png" style="width:125px; max-width:100%; height:auto; display:block;" />
+    <strong style="font-size:12px; display:block; margin-top:6px; text-align: center">🔗 Generative AI Professional</strong>
+  </a>
+</div>
+  
+<div style="display:flex; justify-content: center; gap:20px; flex-wrap:wrap; align-items: center; margin-top: 12px">  
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3186D02949684AC598A19933D648D450B598683AF31F3875923C07F2C746FECF" style="display:flex; flex-direction: column; justify-content: center; align-items: center; max-width: 210px; width: 100%">
+    <img src="./assets/OCI-foundations-associate-badge.png" style="width:120px; max-width:100%; height:auto; display:block;" />
+    <strong style="font-size:12px; display:block; margin-top:6px; text-align: center">🔗 Cloud Infrastructure Certified</strong>
+  </a>
+
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=653B0F6D2221821A3A79D72A7E0C9403E3FC8A2C1E5ED21E71CDF0AF01ED1036" style="display:flex; flex-direction: column; justify-content: center; align-items: center; max-width: 210px; width: 100%; max-width: 210px; width: 100%">
+    <img src="./assets/AI-foundations-associate-badge.png" style="width:120px; max-width:100%; height:auto; display:block;" />
+    <strong style="font-size:12px; display:block; margin-top:6px; text-align: center">🔗 AI & Machine Learning Certified</strong>
+  </a>
+  
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3396BADFFF1F55CCC7CCC64048698F36E6D0A863D650FC21321F7DA932256D36" style="display:flex; flex-direction: column; justify-content: center; align-items: center; max-width: 210px; width: 100%">
+    <img src="./assets/fusion-ai-agent-studio-foundations-associate-badge.png" style="width:120px; max-width:100%; height:auto; display:block;" />
+    <strong style="font-size:12px; display:block; margin-top:6px; text-align: center">🔗 AI Agents Certified</strong>
+  </a>
+</div>
+
+<br/>
+
+<div style="display: flex">
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=danielCrema&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" alt="danielCrema" />
 </p>
@@ -149,6 +183,9 @@
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielCrema&amp;layout=compact&amp;langs_count=16&amp;theme=tokyonight" alt="danielCrema" />
 </p>
+</div>
+
+</div>
 
 <br/>
 <p>
