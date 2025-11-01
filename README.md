@@ -146,11 +146,11 @@
 
 <div style="display:flex; justify-content: center; gap: 10px; flex-wrap:wrap; align-items: center;">
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F76EC5C652C9AB1A59A30A0817FD54E082986A898C84DC7158B45BC33ECD61A0">
-    <img src="./assets/data-science-professional-badge.png" style="width:250px; max-width:100%; height:auto; margin: 0px 20px"/>
+    <img src="./assets/data-science-professional-badge.png" style="width:225px; max-width:100%; height:auto; margin: 0px 20px"/>
   </a>
 
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E8B22361ECAD15ABF5A929E28730DFEFF10CDD6D69764345A1937286EEA3250E">
-    <img src="./assets/generative-ai-professional-badge.png" style="width:250px; max-width:100%; height:auto; margin: 0px 20px" />
+    <img src="./assets/generative-ai-professional-badge.png" style="width:225px; max-width:100%; height:auto; margin: 0px 20px" />
   </a>
 </div>
   
