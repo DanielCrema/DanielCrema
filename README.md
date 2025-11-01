@@ -145,11 +145,12 @@
 <div style="display: flex; flex-direction: column; width: fit-content;">
 
 <div style="display:flex; justify-content: center; gap: 10px; flex-wrap:wrap; align-items: center;">
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F76EC5C652C9AB1A59A30A0817FD54E082986A898C84DC7158B45BC33ECD61A0" style="display:flex; flex-direction: column; justify-content: center; align-items: center; max-width: 210px; width: 100%">
-    <img src="./assets/data-science-professional-badge.png" style="width:125px; max-width:100%; height:auto; display:block;"/>
-    <br/>
-    <strong style="font-size:12px; display:block; margin-top:-12px; text-align: center">🔗 Data Science Professional</strong>
-  </a>
+  <div style="display:flex; flex-direction: column; justify-content: center; align-items: center; max-width: 210px; width: 100%">
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F76EC5C652C9AB1A59A30A0817FD54E082986A898C84DC7158B45BC33ECD61A0">
+      <img src="./assets/data-science-professional-badge.png" style="width:125px; max-width:100%; height:auto; display:block;"/>
+    </a>
+    <strong style="font-size:12px; display:block; margin-top:6px; text-align: center">🔗 Data Science Professional</strong>
+  </div>
 
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E8B22361ECAD15ABF5A929E28730DFEFF10CDD6D69764345A1937286EEA3250E" style="display:flex; flex-direction: column; justify-content: center; align-items: center; max-width: 210px; width: 100%">
     <img src="./assets/generative-ai-professional-badge.png" style="width:125px; max-width:100%; height:auto; display:block;" />
