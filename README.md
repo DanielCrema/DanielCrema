@@ -142,30 +142,6 @@
 
 <br/>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=danielCrema&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" alt="danielCrema" />
-</p>
-
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielCrema&amp;layout=compact&amp;langs_count=16&amp;theme=tokyonight" alt="danielCrema" />
-</p>
-
-
-<br/>
-
-<p>
-    <a href="https://github.com/DanielCrema/oracle_one-data-science-course/blob/main/certificates/Daniel%20Borges%20Crema%20-%20Program%20ONE%20Certificate.pdf" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/oracle/oracle-original.svg" alt="logo-oracle" style="width: 70px"/>  
-    </a>
-</p>
-<p>
-    <a href="https://github.com/DanielCrema/oracle_one-data-science-course/blob/main/certificates/Daniel%20Borges%20Crema%20-%20Programa%20ONE%20Certificado%20-%20Es.pdf" target="_blank" rel="noreferrer">
-        <img src="https://moebius78.github.io/moebius78-sprint03-aluraONE.github.io/assets/Oracle_Alura.png" alt="logo-oracle-alura-latam" style="width: 115px; background: #FCFCFC; color: #333; padding: 2px 3px"/>  
-    </a>
-</p>
-
-<br/>
-
 <div align="center">
 
 <div>
@@ -195,3 +171,27 @@
 </div>
 
 </div>
+
+<br/>
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=danielCrema&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" alt="danielCrema" />
+</p>
+
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielCrema&amp;layout=compact&amp;langs_count=16&amp;theme=tokyonight" alt="danielCrema" />
+</p>
+
+
+<br/>
+
+<p>
+    <a href="https://github.com/DanielCrema/oracle_one-data-science-course/blob/main/certificates/Daniel%20Borges%20Crema%20-%20Program%20ONE%20Certificate.pdf" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/oracle/oracle-original.svg" alt="logo-oracle" style="width: 70px"/>  
+    </a>
+</p>
+<p>
+    <a href="https://github.com/DanielCrema/oracle_one-data-science-course/blob/main/certificates/Daniel%20Borges%20Crema%20-%20Programa%20ONE%20Certificado%20-%20Es.pdf" target="_blank" rel="noreferrer">
+        <img src="https://moebius78.github.io/moebius78-sprint03-aluraONE.github.io/assets/Oracle_Alura.png" alt="logo-oracle-alura-latam" style="width: 115px; background: #FCFCFC; color: #333; padding: 2px 3px"/>  
+    </a>
+</p>
