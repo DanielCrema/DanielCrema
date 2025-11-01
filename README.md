@@ -170,9 +170,10 @@
   </a>
 </div>
 
+</div>
+
 <br/>
 
-<div style="display: flex">
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=danielCrema&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" alt="danielCrema" />
 </p>
@@ -180,9 +181,7 @@
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielCrema&amp;layout=compact&amp;langs_count=16&amp;theme=tokyonight" alt="danielCrema" />
 </p>
-</div>
 
-</div>
 
 <br/>
 <p>
