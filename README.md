@@ -142,7 +142,7 @@
 
 <br/>
 
-<div style="display: flex; flex-direction: column; max-width: 800px">
+<div align="center">
 
 <div style="display:flex; justify-content: center; gap: 10px; flex-wrap:wrap; align-items: center;">
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F76EC5C652C9AB1A59A30A0817FD54E082986A898C84DC7158B45BC33ECD61A0" style="display:inline-block; text-align: center; max-width: 210px; width: 100%;">
