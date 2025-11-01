@@ -145,34 +145,26 @@
 <div style="display: flex; flex-direction: column; max-width: 800px">
 
 <div style="display:flex; justify-content: center; gap: 10px; flex-wrap:wrap; align-items: center;">
-<div>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F76EC5C652C9AB1A59A30A0817FD54E082986A898C84DC7158B45BC33ECD61A0" style="display:inline-block; text-align: center; max-width: 210px; width: 100%;">
     <img src="./assets/data-science-professional-badge.png" style="width:125px; max-width:100%; height:auto"/>
   </a>
-    <strong style="font-size:12px; display:block; margin-top:6px; text-align: center">🔗 Data Science Professional</strong>
-</div>
-
 
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E8B22361ECAD15ABF5A929E28730DFEFF10CDD6D69764345A1937286EEA3250E" style="display:inline-block; text-align: center; max-width: 210px; width: 100%;">
     <img src="./assets/generative-ai-professional-badge.png" style="width:125px; max-width:100%; height:auto" />
-    <strong style="font-size:12px; display:block; margin-top:6px; text-align: center">🔗 Generative AI Professional</strong>
   </a>
 </div>
   
 <div style="display:flex; justify-content: center; gap:20px; flex-wrap:wrap; align-items: center; margin-top: 12px">  
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3186D02949684AC598A19933D648D450B598683AF31F3875923C07F2C746FECF" style="display:inline-block; text-align: center; max-width: 210px; width: 100%;">
     <img src="./assets/OCI-foundations-associate-badge.png" style="width:125px; max-width:100%; height:auto" />
-    <strong style="font-size:12px; display:block; margin-top:6px; text-align: center">🔗 Cloud Infrastructure Certified</strong>
   </a>
 
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=653B0F6D2221821A3A79D72A7E0C9403E3FC8A2C1E5ED21E71CDF0AF01ED1036" style="display:inline-block; text-align: center; max-width: 210px; width: 100%;">
     <img src="./assets/AI-foundations-associate-badge.png" style="width:125px; max-width:100%; height:auto" />
-    <strong style="font-size:12px; display:block; margin-top:6px; text-align: center">🔗 AI & Machine Learning Certified</strong>
   </a>
   
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3396BADFFF1F55CCC7CCC64048698F36E6D0A863D650FC21321F7DA932256D36" style="display:inline-block; text-align: center; max-width: 210px; width: 100%;">
     <img src="./assets/fusion-ai-agent-studio-foundations-associate-badge.png" style="width:125px; max-width:100%; height:auto" />
-    <strong style="font-size:12px; display:block; margin-top:6px; text-align: center">🔗 AI Agents Certified</strong>
   </a>
 </div>
 
